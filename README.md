@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Rajkumar
 
-<!--
-**rajkumar-work-in/rajkumar-work-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer  
+🚀 Building scalable web applications using Java, Spring Boot, and React  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+**Frontend:**  
+React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS  
+
+**Backend:**  
+Java, Spring Boot, REST APIs  
+
+**Database:**  
+MySQL  
+
+---
+
+## 📌 Projects
+
+### 🔗 DK Salon – Full Stack Web App  
+https://dksalon.vercel.app  
+
+- Appointment booking  
+- User authentication  
+- Admin dashboard  
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/rajkumar-work-in
