@@ -31,3 +31,7 @@ https://dksalon.vercel.app
 
 ## 📫 Contact
 - GitHub: https://github.com/rajkumar-work-in
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,react,spring,mysql,js,html,css,git" />
+</p>
