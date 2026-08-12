@@ -8,7 +8,7 @@ I enjoy solving real-world problems through clean and efficient code, and I am a
 
 I am currently seeking opportunities as a Full Stack Developer or Software Engineer where I can contribute, grow, and build impactful applications.
 
-Reach me at: rajkumar.work.in@gmail.com | LinkedIn: linkedin.com/in/rajkumar-work-in
+Reach me at: rajkumar.work.in@gmail.com | LinkedIn: https://www.linkedin.com/in/rajkumar-work-in
 
 Here are the tools, libraries, technologies and frameworks I've worked with:
 <p>
