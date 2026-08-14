@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Business_Banner_Pipeline_LinkedIn" src="https://github.com/user-attachments/assets/ffc8d6ff-feb5-4924-aefd-35928be3223e" />
+<img width="1280" height="640" alt="Startup_Banner_GitHub_1280x640" src="https://github.com/user-attachments/assets/d5e96140-aee5-49b2-a218-f9c07d37c796" />
 
 # Hi, I'm Rajkumar J
 
