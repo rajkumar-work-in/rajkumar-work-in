@@ -1,4 +1,4 @@
-<img width="1280" height="640" alt="Startup_Banner_GitHub_1280x640" src="https://github.com/user-attachments/assets/d5e96140-aee5-49b2-a218-f9c07d37c796" />
+<img width="1500" height="500" alt="Startup_Banner_Twitter_X_1500x500" src="https://github.com/user-attachments/assets/ce0ef4ba-6e00-4fa8-bf74-84cc08dc05b4" />
 
 # Hi, I'm Rajkumar J
 
