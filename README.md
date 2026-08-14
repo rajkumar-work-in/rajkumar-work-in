@@ -2,8 +2,6 @@
 
 # Hi, I'm Rajkumar J
 
-### Java Full Stack Developer
-
 I'm a **Java Full Stack Developer** passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into practical solutions and working across both frontend and backend development to create complete applications.
 
 I like writing clean and maintainable code, solving real-world problems, and continuously improving my technical and problem-solving skills through hands-on projects.
