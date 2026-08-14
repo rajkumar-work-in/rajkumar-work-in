@@ -1,5 +1,6 @@
-<img width="1584" height="396" alt="Rajkumar_LinkedIn_Banner_v2" src="https://github.com/user-attachments/assets/64cef8a2-049f-4582-973b-88bffa3fe767" />
-# Hi, I'm Rajkumar
+<img width="1584" height="396" alt="Business_Banner_Pipeline_LinkedIn" src="https://github.com/user-attachments/assets/ffc8d6ff-feb5-4924-aefd-35928be3223e" />
+
+Hi, I'm Rajkumar
 
 I am a Full Stack Developer with experience in building modern, scalable, and user-friendly web applications using Java, Spring Boot, and React. I specialize in developing complete end-to-end solutions, from designing responsive and intuitive user interfaces to building efficient backend systems and RESTful APIs.
 
