@@ -1,5 +1,3 @@
-<img width="1584" height="396" alt="Startup_Banner_LinkedIn_1584x396" src="https://github.com/user-attachments/assets/b8c5448b-eb95-4811-bcf3-74b1454e7c6d" />
-
 # Hi, I'm Rajkumar J
 
 I'm a **Java Full Stack Developer** passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into practical solutions and working across both frontend and backend development to create complete applications.
